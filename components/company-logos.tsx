@@ -12,7 +12,7 @@ const CompanyLogos = () => {
   return (
     <div className="flex flex-col items-center my-8">
       <div className="mb-4 text-center">
-        <span className={subtitle()}>Organizations I&apos;ve Worked with</span>
+        <span className={subtitle()}>Organizations I&apos;ve worked with</span>
       </div>
       <div className="flex justify-center gap-6">
         {logos.map(logo => (
