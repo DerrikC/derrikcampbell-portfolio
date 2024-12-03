@@ -11,7 +11,7 @@ export default function Home() {
     <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
       <div className="max-w-4xl text-left">
         {/* this is causing issues with theme */}
-        <span className={title()}>Hi I'm &nbsp;</span>
+        <span className={title()}>Hi I&apos;m &nbsp;</span>
         <span className={title({ color: "green" })}>Derrik Campbell</span>
         <br />
         <span className={title()}>
