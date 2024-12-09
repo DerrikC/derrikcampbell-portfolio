@@ -25,7 +25,7 @@ export default function AboutPage() {
         />
       </div>
       <p className="text-left mt-12 text-[32px]">
-        I'm Derrik Campbell, a product designer who is passionate about crafting products. Over the years my passion for design and technology has motivated me to create refined and practical design experiences. Want to work on a project, or get to know me? Just contact me at derrikdesign@gmail.com, connect on LinkedIn and feel free to check out my Dribbble!
+        I&apos;m Derrik Campbell, a product designer who is passionate about crafting products. Over the years my passion for design and technology has motivated me to create refined and practical design experiences. Want to work on a project, or get to know me? Just contact me at derrikdesign@gmail.com, connect on LinkedIn and feel free to check out my Dribbble!
       </p>
     
   
